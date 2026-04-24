@@ -1,0 +1,1 @@
+// WAP to find the largest no among  20 integers using dynamic memory location.

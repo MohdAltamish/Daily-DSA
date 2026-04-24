@@ -1,0 +1,1 @@
+// WAP to search an element in a array using Linear Search.

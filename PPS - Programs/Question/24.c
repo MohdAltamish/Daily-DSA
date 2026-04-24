@@ -1,0 +1,1 @@
+// WAP to find the minimum and maximum element of the array.

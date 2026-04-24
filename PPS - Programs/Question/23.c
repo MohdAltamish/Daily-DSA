@@ -1,0 +1,1 @@
+// WAP that inputs two arrays and saves sum of corresponding elements of these arrays in a third array and prints them.

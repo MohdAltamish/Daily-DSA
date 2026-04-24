@@ -1,0 +1,1 @@
+// WAP to compare the contents of two files and determine whether they are same or not.

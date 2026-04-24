@@ -1,0 +1,1 @@
+// WAP to check whether a given word exists in a file or not. If yes then find the number of times it occurs.

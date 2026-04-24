@@ -1,0 +1,1 @@
+// WAP that finds the sum of diagonal elements of an mxn matrix.

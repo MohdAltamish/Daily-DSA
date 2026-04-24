@@ -1,0 +1,1 @@
+// WAP to find the factorial of given number using command line argument.
